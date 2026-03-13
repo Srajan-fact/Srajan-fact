@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,100:a855f7&text=Srajan-fact&fontSize=80&fontColor=a855f7&animation=fadeIn&fontAlignY=45&desc=⭐%20Welcome%20to%20the%20Event%20Horizon%20⭐&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,100:a855f7&text=Srajan&fontSize=80&fontColor=a855f7&animation=fadeIn&fontAlignY=45&desc=⭐%20Welcome%20to%20the%20Event%20Horizon%20⭐&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
 
 <!-- BLACKHOLE BANNER -->
 <img src="./blackhole-banner.svg" width="100%"/>
