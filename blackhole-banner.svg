@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
   <defs>
-    <!-- Radial gradient background: black to purple -->
+    <!-- Radial gradient background: black to deep gold -->
     <radialGradient id="bg-gradient" cx="50%" cy="50%" r="70%">
-      <stop offset="0%" stop-color="#1a0033"/>
-      <stop offset="40%" stop-color="#0d001a"/>
+      <stop offset="0%" stop-color="#1a1000"/>
+      <stop offset="40%" stop-color="#0d0800"/>
       <stop offset="100%" stop-color="#000000"/>
     </radialGradient>
 
-    <!-- Glow filter for the blackhole core -->
+    <!-- Glow filter for rings -->
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="8" result="blur"/>
       <feMerge>
@@ -17,7 +17,7 @@
       </feMerge>
     </filter>
 
-    <!-- Stronger glow for the core -->
+    <!-- Core glow -->
     <filter id="core-glow" x="-100%" y="-100%" width="300%" height="300%">
       <feGaussianBlur stdDeviation="15" result="blur"/>
       <feMerge>
@@ -41,85 +41,85 @@
   <!-- Background -->
   <rect width="1200" height="400" fill="url(#bg-gradient)"/>
 
-  <!-- Twinkling stars -->
+  <!-- Twinkling stars — gold & white palette -->
   <g filter="url(#star-glow)">
     <circle cx="100" cy="50" r="1.5" fill="#ffffff">
       <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="250" cy="120" r="1" fill="#a855f7">
+    <circle cx="250" cy="120" r="1" fill="#d4a853">
       <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
     </circle>
     <circle cx="400" cy="30" r="1.5" fill="#ffffff">
       <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="550" cy="80" r="1" fill="#06b6d4">
+    <circle cx="550" cy="80" r="1" fill="#f0d68a">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
     </circle>
     <circle cx="700" cy="45" r="1.5" fill="#ffffff">
       <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="850" cy="100" r="1" fill="#ec4899">
+    <circle cx="850" cy="100" r="1" fill="#c9a84c">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/>
     </circle>
     <circle cx="950" cy="60" r="1.5" fill="#ffffff">
       <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.2s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1100" cy="90" r="1" fill="#a855f7">
+    <circle cx="1100" cy="90" r="1" fill="#d4a853">
       <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/>
     </circle>
     <circle cx="150" cy="300" r="1" fill="#ffffff">
       <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3.8s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="320" cy="350" r="1.5" fill="#06b6d4">
+    <circle cx="320" cy="350" r="1.5" fill="#f0d68a">
       <animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" repeatCount="indefinite"/>
     </circle>
     <circle cx="500" cy="370" r="1" fill="#ffffff">
       <animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.2s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="780" cy="340" r="1.5" fill="#ec4899">
+    <circle cx="780" cy="340" r="1.5" fill="#c9a84c">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
     </circle>
     <circle cx="1000" cy="320" r="1" fill="#ffffff">
       <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3.6s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1150" cy="360" r="1.5" fill="#a855f7">
+    <circle cx="1150" cy="360" r="1.5" fill="#d4a853">
       <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
     </circle>
     <circle cx="80" cy="180" r="1" fill="#ffffff">
       <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3.4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1120" cy="200" r="1" fill="#06b6d4">
+    <circle cx="1120" cy="200" r="1" fill="#f0d68a">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" repeatCount="indefinite"/>
     </circle>
   </g>
 
-  <!-- Orbiting ring 1 (outermost) -->
-  <ellipse cx="600" cy="200" rx="220" ry="60" fill="none" stroke="#a855f7" stroke-width="1.5" opacity="0.4" filter="url(#glow)">
+  <!-- Orbiting ring 1 (outermost) — gold -->
+  <ellipse cx="600" cy="200" rx="220" ry="60" fill="none" stroke="#d4a853" stroke-width="1.5" opacity="0.35" filter="url(#glow)">
     <animateTransform attributeName="transform" type="rotate" from="0 600 200" to="360 600 200" dur="20s" repeatCount="indefinite"/>
   </ellipse>
 
-  <!-- Orbiting ring 2 (middle) -->
-  <ellipse cx="600" cy="200" rx="170" ry="45" fill="none" stroke="#8b5cf6" stroke-width="1.5" opacity="0.5" filter="url(#glow)">
+  <!-- Orbiting ring 2 (middle) — warm gold -->
+  <ellipse cx="600" cy="200" rx="170" ry="45" fill="none" stroke="#c9a84c" stroke-width="1.5" opacity="0.45" filter="url(#glow)">
     <animateTransform attributeName="transform" type="rotate" from="120 600 200" to="480 600 200" dur="15s" repeatCount="indefinite"/>
   </ellipse>
 
-  <!-- Orbiting ring 3 (innermost) -->
-  <ellipse cx="600" cy="200" rx="120" ry="30" fill="none" stroke="#06b6d4" stroke-width="1.5" opacity="0.6" filter="url(#glow)">
+  <!-- Orbiting ring 3 (innermost) — bright gold -->
+  <ellipse cx="600" cy="200" rx="120" ry="30" fill="none" stroke="#f0d68a" stroke-width="1.5" opacity="0.55" filter="url(#glow)">
     <animateTransform attributeName="transform" type="rotate" from="240 600 200" to="600 600 200" dur="10s" repeatCount="indefinite"/>
   </ellipse>
 
   <!-- Blackhole core - outer glow -->
-  <circle cx="600" cy="200" r="50" fill="#8b5cf6" opacity="0.15" filter="url(#core-glow)">
+  <circle cx="600" cy="200" r="50" fill="#b8860b" opacity="0.12" filter="url(#core-glow)">
     <animate attributeName="r" values="50;58;50" dur="4s" repeatCount="indefinite"/>
   </circle>
 
   <!-- Blackhole core - middle glow -->
-  <circle cx="600" cy="200" r="35" fill="#a855f7" opacity="0.25" filter="url(#core-glow)">
+  <circle cx="600" cy="200" r="35" fill="#d4a853" opacity="0.2" filter="url(#core-glow)">
     <animate attributeName="r" values="35;40;35" dur="3s" repeatCount="indefinite"/>
   </circle>
 
   <!-- Blackhole core - inner -->
-  <circle cx="600" cy="200" r="20" fill="#000000" stroke="#a855f7" stroke-width="2" filter="url(#glow)">
+  <circle cx="600" cy="200" r="20" fill="#000000" stroke="#d4a853" stroke-width="2" filter="url(#glow)">
     <animate attributeName="r" values="20;23;20" dur="2s" repeatCount="indefinite"/>
   </circle>
 
