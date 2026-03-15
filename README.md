@@ -32,7 +32,7 @@ I live at the intersection of **clean UI**, **smart logic**, and **shipped produ
 - 🌐 Full-stack builder — React, Node.js, MongoDB, Python
 - 🎨 UI/UX obsessed — Figma-first, CRED-inspired design thinking
 - 🎮 Gamer, video editor, singer — creativity doesn't clock out
-- 📺 Documenting the journey on YouTube → [github.com/Srajan-fact](https://github.com/Srajan-fact)
+- 📺 Documenting the journey on YouTube → [@sixthsense1703](https://www.youtube.com/@sixthsense1703)
 
 <br clear="right"/>
 
