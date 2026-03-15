@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Srajan;Android+Dev+%7C+AI+Integration+%7C+Full-Stack;Information+Science+Engineer+%40+HKBK;Building+apps+that+ship.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C9A84C&center=true&vCenter=true&width=800&lines=Building+Things+That+Matter;Vibe+Coder+%7C+Problem+Solver;Creative+App+Designer;Android+Dev+%7C+AI+Integration+%7C+Full-Stack;If+it+ships%2C+it+matters.)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,26 +17,22 @@
 
 ## ◈ About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="margin-left:20px;" />
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
 
-```kotlin
-val srajan = Developer(
-    name     = "Srajan",
-    college  = "HKBK College of Engineering",
-    batch    = 2022,
-    degree   = "Information Science & Engineering",
-    current  = "Intern @ MindMatrix — Android + GenAI",
-    stack    = listOf("Kotlin", "Jetpack Compose", "Firebase",
-                      "React", "Node.js", "Python"),
-    hobbies  = listOf("Video Editing", "Singing", "Gaming", "Open Source")
-)
-```
+### 🔥 The Dev Behind The Code
 
-**Currently Working On:**
-- 🤖 Android app development with **Generative AI** at MindMatrix
-- ⚡ Jetpack Compose UI — Tip Calc, Contact Manager, Superheroes & more
-- 🌐 Full-stack projects with **React + Node.js + MongoDB**
-- 📺 Documenting everything on **YouTube** → [github.com/Srajan-fact](https://github.com/Srajan-fact)
+> *"I don't just write code — I build experiences."*
+
+Hey, I'm **Srajan** — an Information Science Engineer, Android developer, and creative problem-solver currently interning at **MindMatrix** building AI-powered Android apps with Jetpack Compose.
+
+I live at the intersection of **clean UI**, **smart logic**, and **shipped products**. Whether it's a Kotlin app, a full-stack web project, or a Pac-Man contribution graph on my GitHub — if it's worth building, it's worth building right.
+
+**What I'm about:**
+- 🤖 Android + Generative AI @ MindMatrix — Jetpack Compose, Firebase, Agentforce
+- 🌐 Full-stack builder — React, Node.js, MongoDB, Python
+- 🎨 UI/UX obsessed — Figma-first, CRED-inspired design thinking
+- 🎮 Gamer, video editor, singer — creativity doesn't clock out
+- 📺 Documenting the journey on YouTube → [github.com/Srajan-fact](https://github.com/Srajan-fact)
 
 <br clear="right"/>
 
