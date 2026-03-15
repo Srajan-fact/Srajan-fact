@@ -1,143 +1,246 @@
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=52&fontColor=C9A84C&fontAlign=50&fontAlignY=45&color=0,0d0d0d,100,1a1400&stroke=C9A84C&strokeWidth=1&desc=Code.%20Build.%20Ship.&descSize=20&descAlign=50&descAlignY=68&descAlignY=68" />
+</div>
+
+<br/>
+
 <div align="center">
 
-<!-- HEADER — BLACK & GOLD -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,100:d4a853&text=Srajan&fontSize=80&fontColor=d4a853&animation=fadeIn&fontAlignY=45&desc=✦%20Welcome%20to%20the%20Event%20Horizon%20✦&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Srajan;Android+Dev+%7C+AI+Integration+%7C+Full-Stack;Information+Science+Engineer+%40+HKBK;Building+apps+that+ship.)](https://git.io/typing-svg)
 
-<!-- BLACKHOLE BANNER — GOLD THEME -->
-<img src="./blackhole-banner.svg" width="100%"/>
+</div>
 
-<!-- TYPING EFFECT — GOLD -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=D4A853&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Devouring+Code+Like+a+Black+Hole+%F0%9F%95%B3%EF%B8%8F;Full+Stack+Developer+%7C+Open+Source+%E2%9C%A8;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
-
-<!-- PROFILE VIEWS -->
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Srajan-fact&style=for-the-badge&color=d4a853&label=EVENT+HORIZON+VISITORS"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## 🕳️ `> about_me`
+## ◈ About Me
 
-```javascript
-const srajanFact = {
-    name: "Srajan",
-    title: "Full Stack Developer",
-    location: "The Event Horizon 🌌",
-    languages: ["JavaScript", "TypeScript", "Python"],
-    tools: ["React", "Node.js", "Docker", "AWS", "MongoDB"],
-    currentlyLearning: "Everything the void reveals 🕳️",
-    funFact: "I compress bugs into singularities — they never escape."
-};
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="margin-left:20px;" />
+
+```kotlin
+val srajan = Developer(
+    name     = "Srajan",
+    college  = "HKBK College of Engineering",
+    batch    = 2022,
+    degree   = "Information Science & Engineering",
+    current  = "Intern @ MindMatrix — Android + GenAI",
+    stack    = listOf("Kotlin", "Jetpack Compose", "Firebase",
+                      "React", "Node.js", "Python"),
+    hobbies  = listOf("Video Editing", "Singing", "Gaming", "Open Source")
+)
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+**Currently Working On:**
+- 🤖 Android app development with **Generative AI** at MindMatrix
+- ⚡ Jetpack Compose UI — Tip Calc, Contact Manager, Superheroes & more
+- 🌐 Full-stack projects with **React + Node.js + MongoDB**
+- 📺 Documenting everything on **YouTube** → [github.com/Srajan-fact](https://github.com/Srajan-fact)
 
-## 🕳️ `> tech_stack`
+<br clear="right"/>
 
-<br/>
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=d4a853)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=c9a84c)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=d4a853)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=f0d68a)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=d4a853)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=b8860b)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=d4a853)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=f0d68a)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=d4a853)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=b8860b)
+## ◈ Tech Stack
 
-<br/>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- ROW 1 — MOBILE & FRONTEND -->
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48"/><br/>
+      <sub><b>Android Studio</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48"/><br/>
+      <sub><b>Kotlin</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48"/><br/>
+      <sub><b>Dart</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+  </tr>
 
-## 🕳️ `> github_stats`
+  <!-- ROW 2 — BACKEND & DB -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br/>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/><br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+  </tr>
 
-<br/>
+  <!-- ROW 3 — TOOLS & DESIGN -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br/>
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/><br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48"/><br/>
+      <sub><b>Jenkins</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/Srajan-fact">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srajan-fact&show_icons=true&hide_border=true&title_color=d4a853&icon_color=c9a84c&text_color=c9d1d9&bg_color=00000000&ring_color=d4a853"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajan-fact&layout=compact&hide_border=true&title_color=d4a853&text_color=c9d1d9&bg_color=00000000"/>
-</a>
+</div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+## ◈ GitHub Stats
 
-## 🕳️ `> streak_stats`
+<div align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Srajan-fact&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff&border_color=C9A84C&border_radius=8&hide_border=false" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Srajan-fact&theme=dark&background=0d0d0d&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&border=C9A84C&border_radius=8" width="49%" />
 
-<a href="https://github.com/Srajan-fact">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srajan-fact&background=00000000&hide_border=true&ring=d4a853&fire=b8860b&currStreakLabel=d4a853&sideLabels=d4a853&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9a84c"/>
-</a>
+</div>
 
-<br/>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajan-fact&layout=compact&theme=dark&bg_color=0d0d0d&title_color=C9A84C&text_color=ffffff&border_color=C9A84C&border_radius=8&langs_count=10" width="50%" />
 
-## 🕳️ `> activity_graph`
+</div>
 
-<br/>
+---
 
-<a href="https://github.com/Srajan-fact">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srajan-fact&bg_color=000000&color=d4a853&line=c9a84c&point=b8860b&area=true&area_color=c9a84c&hide_border=true"/>
-</a>
+## ◈ GitHub Trophies
 
-<br/>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Srajan-fact&theme=algolia&margin-h=10&margin-w=10&no-bg=true&no-frame=false" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## 🕳️ `> trophies`
+## ◈ Activity Graph
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srajan-fact&bg_color=0d0d0d&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=1a1400&border_color=C9A84C&radius=8" height="300" />
+</div>
 
-<a href="https://github.com/Srajan-fact">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srajan-fact&theme=gruvbox&no-bg=true&no-frame=true&column=7"/>
-</a>
+---
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🕳️ `> snake_animation`
-
-<br/>
+## ◈ Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srajan-fact/Srajan-fact/output/github-snake-dark.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Srajan-fact/Srajan-fact/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srajan-fact/Srajan-fact/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srajan-fact/Srajan-fact/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Srajan-fact/Srajan-fact/output/pacman-contribution-graph.svg">
 </picture>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+## ◈ Let's Connect
 
-## 🕳️ `> connect_with_me`
+<div align="center">
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=d4a853)](https://linkedin.com/in/MY_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=d4a853)](https://twitter.com/MY_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=f0d68a)](https://MY_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=b8860b)](mailto:MY_EMAIL)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Always+happy+to+connect+%F0%9F%A4%9D;Drop+a+%E2%AD%90+if+you+like+what+you+see;Let's+build+something+that+matters.)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<a href="https://www.linkedin.com/in/srajanfact" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-C9A84C?style=for-the-badge&logo=linkedin&logoColor=000000" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/___srajan___/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-C9A84C?style=for-the-badge&logo=instagram&logoColor=000000" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/phoenixtriibe" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-C9A84C?style=for-the-badge&logo=hackerrank&logoColor=000000" />
+</a>
+&nbsp;
+<a href="mailto:phoenixtriibe@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-C9A84C?style=for-the-badge&logo=gmail&logoColor=000000" />
+</a>
+&nbsp;
+<a href="https://github.com/Srajan-fact">
+  <img src="https://img.shields.io/badge/GitHub-C9A84C?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "Somewhere, something incredible is waiting to be known."      ║
-║                                          — Carl Sagan            ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:d4a853&section=footer"/>
+<a href="https://github.com/Srajan-fact?tab=repositories">
+  <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-000000?style=for-the-badge&logo=github&logoColor=C9A84C&labelColor=1a1400&color=C9A84C" />
+</a>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0,1a1400,100,0d0d0d&stroke=C9A84C&strokeWidth=1" />
 </div>
